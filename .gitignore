@@ -3,41 +3,6 @@ build/
 *.txt.user
 
 
-# Compiled Object files 
-*.slo 
-*.lo 
-*.o 
-*.obj  
- 
-# Precompiled Headers 
-*.gch 
-*.pch  
- 
-# Compiled Dynamic libraries 
-*.so 
-*.dylib 
-*.dll  
- 
-# Fortran module files 
-*.mod 
- 
-# Compiled Static libraries 
-*.lai 
-*.la 
-*.a 
-23 *.lib 
-24 
- 
-25 # Executables 
-26 *.exe 
-27 *.out 
-28 *.app 
- 
-
-
-
-
-
 Status
  API
  Training
@@ -49,3 +14,34 @@ Status
  Privacy
  Security
  Contact
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+ 
+# Precompiled Headers 
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+ 
+# Fortran module files
+*.mod
+ 
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+23 *.lib
+24
+
+25 # Executables
+26 *.exe
+27 *.out
+28 *.app
+
